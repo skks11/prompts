@@ -29,7 +29,30 @@ Feel free to contribute your own useful prompts by:
 
 ## Categories
 
-Coming soon - prompts will be organized into relevant categories as the collection grows.
+### 🖥️ Coding Agents
+Prompts for software development and programming tasks.
+- **Debugging**: Bug identification and troubleshooting
+- **Frontend**: UI/UX development and client-side technologies  
+- **Backend**: Server-side development and system architecture
+- **Testing**: Test writing and quality assurance
+
+### ✍️ Writing Assistance
+Prompts for content creation and writing improvement.
+- **Creative**: Storytelling and imaginative content
+- **Technical**: Documentation and professional writing
+- **Editing**: Proofreading and content improvement
+
+### 📊 Analysis
+Prompts for analytical and research tasks.
+- **Data Analysis**: Statistical interpretation and insights
+- **Research**: Information gathering and synthesis
+- **Review**: Content and process evaluation
+
+### ⚡ Productivity
+Prompts for workflow optimization and efficiency.
+- **Task Management**: Organization and project tracking
+- **Automation**: Process automation and optimization
+- **Planning**: Strategic planning and goal setting
 
 ## License
 
